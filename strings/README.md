@@ -6,7 +6,7 @@
 | en | English [English] | 418 | 0 |
 | ar | Arabic [العربية] | 418 | NULL |
 | si | sinhala [සිංහල] | 112 | 306 |
-| hi | Hindi [हिंदी] | 413 | 5 |
+| hi | Hindi [हिंदी] | 413 | 5mmm |
 | fr | French [Français] | 110 | 308 |
 | jp | Japanese [日本] | 413 | 5 |
 | fa | Persian [Farsi] | 391 | 27 |
