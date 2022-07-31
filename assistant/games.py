@@ -5,7 +5,7 @@
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
 
-"""
+"""kkk
 • `{i}akinator` | `/akinator`
    Start akinator game from Userbot/Assistant
 
